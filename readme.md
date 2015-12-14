@@ -13,3 +13,5 @@ quick and dirty extension of the other animations:
 - rainbow
 - rainbowCycle
 - theaterChaseRainbow
+
+---
